@@ -1,2 +1,0 @@
-will be deleted
-cat < will_be_deleted.txt
